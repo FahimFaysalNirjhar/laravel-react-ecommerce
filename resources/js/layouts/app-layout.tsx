@@ -1,4 +1,3 @@
-// resources/js/layouts/app-layout.tsx
 import { PropsWithChildren } from 'react';
 import Navbar from '@/components/navbar';
 

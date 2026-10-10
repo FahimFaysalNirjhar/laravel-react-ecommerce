@@ -1,7 +1,7 @@
 import { useId } from 'react';
-import InputError from '@/components/input-error';
-import InputLabel from '@/components/input-label';
-import TextInput, { TextInputProps } from '@/components/text-input';
+import InputError from '@/components/form/input-error';
+import InputLabel from '@/components/form/input-label';
+import TextInput, { TextInputProps } from '@/components/form/text-input';
 
 type Props = TextInputProps & {
   label: string;
